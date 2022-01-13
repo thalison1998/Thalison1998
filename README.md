@@ -1,4 +1,10 @@
 <h1> Prazer, meu nome e Thalison !!! </h1>
+<p><strong>what am i studying at the moment: 
+ <img align="center" alt="Thalison-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
+ <img align="center" alt="Thalison-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="Thalison-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+ <img align="center" alt="Thalison-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ </strong></p>
  <div style="display:inline-block">
   <a href="https://github.com/thalison1998">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalison1998&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
