@@ -5,11 +5,7 @@
  <img align="center" alt="Thalison-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  <img align="center" alt="Thalison-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </strong></p>
- <div style="display:inline-block">
-  <a href="https://github.com/thalison1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalison1998&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalison1998&layout=compact&langs_count=7&theme=bear" />
-</div>
+
   <div style="display:inline-block"><br>
   <img align="center" alt="Thalison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thalison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
